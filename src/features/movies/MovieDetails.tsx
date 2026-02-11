@@ -33,14 +33,50 @@ export default function MovieDetails() {
   }
 
   return (
+    <div className="min-h-screen bg-slate-900 text-white px-6 py-12">
+      
+      <div className="max-w-6xl mx-auto">
+        
+        <h1 className="text-4xl md:text-5xl font-bold mb-10 text-amber-400">
+          Movie Details
+        </h1>
 
-    <div className="flex-wrap mt-grid bg-teal-300  text-white text-4xl" >
-        <h1 className="text-5xl pl-3">Movie Details</h1>
-      <img src={movie.posteUrl} alt="" className=" h-100 w-50"/>
-      <div >{movie ?.title}</div>
-         <p>Descripcion: {movie.description}</p>
-            <p>{movie.rating}</p>
-            <p>Autor: {movie.director}</p>
+        <div className="flex flex-col md:flex-row gap-10">
+          
+          {/* Poster */}
+          <div className="flex-shrink-0">
+            <img
+              src={movie.posteUrl}
+              alt={movie.title}
+              className="w-72 rounded-2xl shadow-2xl object-cover"
+            />
+          </div>
+
+          {/* Info */}
+          <div className="flex-1 space-y-6">
+            
+            <h2 className="text-3xl font-semibold">
+              {movie?.title}
+            </h2>
+
+            <p className="text-gray-300 leading-relaxed">
+              {movie.description}
+            </p>
+
+            <div className="flex flex-wrap gap-6 text-lg">
+              <p className="bg-slate-800 px-4 py-2 rounded-lg">
+                ⭐ Rating: {movie.rating}
+              </p>
+
+              <p className="bg-slate-800 px-4 py-2 rounded-lg">
+                🎬 Director: {movie.director}
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
     </div>
   );
 }
