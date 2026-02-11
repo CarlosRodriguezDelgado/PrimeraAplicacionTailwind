@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Ciencia ficción",
+    "rating": "PG-13",
+    "posteUrl": "https://i.pinimg.com/originals/89/87/ce/8987ce6a44674f18846622a9cc0e9867.jpg",
+    "description": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de sueños compartidos recibe la tarea de implantar una idea en la mente de un CEO.",
+    "duration": 148,
+    "director": "Christopher Nolan"
+  },
+
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crimen",
+    "rating": "R",
+    "posteUrl": "https://i.pinimg.com/originals/c0/36/21/c03621d7bf33f4c9c0478026478adf78.jpg",
+    "description": "La historia de la familia criminal Corleone y la transformación de Michael Corleone en el nuevo líder de la mafia.",
+    "duration": 175,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Ciencia ficción",
+    "rating": "PG-13",
+    "posteUrl": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/08/19085635/gEU2QniE6E77NI6lCU6MxlNBvIx-scaled.jpg",
+    "description": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+    "duration": 169,
+    "director": "Christopher Nolan"
+  },
+
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Acción",
+    "rating": "PG-13",
+    "posteUrl": "https://www.themoviedb.org/t/p/original/pKKvCaL1TPTVtbI6EeliyND3api.jpg",
+    "description": "Batman enfrenta al Joker, un criminal caótico que siembra el terror en Gotham mientras pone a prueba los límites del héroe.",
+    "duration": 152,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 5,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": "R",
+    "posteUrl": "https://www.themoviedb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "description": "Una familia de bajos recursos se infiltra en la vida de una familia adinerada, desencadenando una serie de eventos inesperados.",
+    "duration": 132,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "id": 6,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": "R",
+    "posteUrl": "https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "description": "La historia de la amistad entre dos prisioneros y su lucha por mantener la esperanza en una prisión de máxima seguridad.",
+    "duration": 142,
+    "director": "Frank Darabont"
+  },
+
+  {
+  "id": 7,
+  "title": "Gladiator",
+  "year": 2000,
+  "genre": "Acción",
+  "rating": "R",
+  "posteUrl": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+  "description": "Un general romano traicionado busca venganza contra el emperador corrupto que asesinó a su familia y lo convirtió en esclavo.",
+  "duration": 155,
+  "director": "Ridley Scott"
+},
+{
+  "id": 8,
+  "title": "Pulp Fiction",
+  "year": 1994,
+  "genre": "Crimen",
+  "rating": "R",
+  "posteUrl": "https://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+  "description": "Varias historias entrelazadas de crimen en Los Ángeles se desarrollan con diálogos memorables y giros inesperados.",
+  "duration": 154,
+  "director": "Quentin Tarantino"
+},
+{
+  "id": 9,
+  "title": "The Matrix",
+  "year": 1999,
+  "genre": "Ciencia ficción",
+  "rating": "R",
+  "posteUrl": "https://image.tmdb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+  "description": "Un hacker descubre la verdad sobre su realidad y su papel en la guerra contra las máquinas que controlan el mundo.",
+  "duration": 136,
+  "director": "Lana Wachowski y Lilly Wachowski"
+},
+{
+  "id": 10,
+  "title": "Whiplash",
+  "year": 2014,
+  "genre": "Drama",
+  "rating": "R",
+  "posteUrl": "https://tse3.mm.bing.net/th/id/OIP.sxXNnoxcVXnxpZMDsQ4k_QHaKq?rs=1&pid=ImgDetMain&o=7&rm=3",
+  "description": "Un joven baterista de jazz es llevado al límite por su exigente y abusivo instructor en una prestigiosa academia musical.",
+  "duration": 107,
+  "director": "Damien Chazelle"
+}
+]
